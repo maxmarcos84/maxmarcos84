@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxmarcos84
+- 👋 Hi, I’m Marcos Ridao
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning python django
 - 📫 How to reach me: marcoss.ridao@gmail.com
