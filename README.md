@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos Ridao
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning python django
+- 🌱 I’m currently learning python django, javascript and react
 - 📫 How to reach me: marcoss.ridao@gmail.com
 
 <!---
