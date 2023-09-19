@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos Ridao
 - 👀 I’m interested in web and desktop development
-- 🌱 I’m currently learning python django, javascript and react
+- 🌱 I’m currently learning Maui
 - 📫 How to reach me: marcoss.ridao@gmail.com
 
 <!---
