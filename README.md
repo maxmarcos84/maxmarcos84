@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos Ridao
-- 👀 I’m interested in web and desktop development
+- 👀 I’m interested in web, desktop and mobil development (Full Stack but mainly backend)
 - 🌱 I’m currently learning Maui
 - 📫 How to reach me: marcoss.ridao@gmail.com
 
